@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>CustomStack</RootNamespace>
+    <AssemblyName>Stack of Strings</AssemblyName>
+  </PropertyGroup>
+
+</Project>
