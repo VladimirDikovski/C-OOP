@@ -22,8 +22,8 @@ namespace BirthdayCelebrationss
                     int age = int.Parse(input[2]);
                     string id = input[3];
                     string birday = input[4];
-                    Citizen newCitezen = new Citizen(name, age, id, birday);
-                    list.Add(newCitezen);
+                    Citizen newCitizen = new Citizen(name, age, id, birday);
+                    list.Add(newCitizen);
                 }
                 else if (input[0] == "Pet")
                 {
